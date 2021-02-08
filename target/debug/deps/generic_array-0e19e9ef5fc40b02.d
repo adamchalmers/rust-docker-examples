@@ -1,0 +1,11 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/generic_array-0e19e9ef5fc40b02.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/hex.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/impls.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/arr.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/functional.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/iter.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/sequence.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/generic_array-0e19e9ef5fc40b02.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/hex.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/impls.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/arr.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/functional.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/iter.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/sequence.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/hex.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/impls.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/arr.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/functional.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/iter.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/generic-array/src/sequence.rs:

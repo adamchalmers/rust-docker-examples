@@ -1,0 +1,13 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/url-993a06d91bfb38da.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/host.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/origin.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/parser.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/path_segments.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/slicing.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/quirks.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/liburl-993a06d91bfb38da.rlib: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/host.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/origin.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/parser.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/path_segments.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/slicing.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/quirks.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/url-993a06d91bfb38da.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/host.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/origin.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/parser.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/path_segments.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/slicing.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/quirks.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/host.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/origin.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/parser.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/path_segments.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/slicing.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/url/src/quirks.rs:

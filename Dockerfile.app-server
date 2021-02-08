@@ -1,0 +1,6 @@
+FROM rust:1.49-buster
+WORKDIR /build/
+COPY Cargo.toml Cargo.lock /build/
+COPY lib/ /build/lib
+COPY bin/ /build/bin
+RUN cargo build --bin app-server

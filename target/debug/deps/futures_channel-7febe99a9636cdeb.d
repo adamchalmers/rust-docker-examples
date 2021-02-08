@@ -1,0 +1,10 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/futures_channel-7febe99a9636cdeb.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/lock.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/queue.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/sink_impl.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/oneshot.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/futures_channel-7febe99a9636cdeb.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/lock.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/queue.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/sink_impl.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/oneshot.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/lock.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/mod.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/queue.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/mpsc/sink_impl.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-channel/src/oneshot.rs:

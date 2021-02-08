@@ -1,0 +1,11 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/futures_core-19e25775f986bd8f.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/future.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/stream.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/poll.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/__internal/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/__internal/atomic_waker.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/futures_core-19e25775f986bd8f.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/future.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/stream.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/poll.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/__internal/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/__internal/atomic_waker.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/future.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/stream.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/mod.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/poll.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/__internal/mod.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-core/src/task/__internal/atomic_waker.rs:

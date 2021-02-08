@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "bin/app-server",
+    "bin/integration-tests",
+    "lib/person",
+]

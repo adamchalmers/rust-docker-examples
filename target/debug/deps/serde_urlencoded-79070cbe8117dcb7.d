@@ -1,0 +1,11 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/serde_urlencoded-79070cbe8117dcb7.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/de.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/key.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/pair.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/part.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/value.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/serde_urlencoded-79070cbe8117dcb7.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/de.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/key.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/pair.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/part.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/value.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/de.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/mod.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/key.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/pair.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/part.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/serde_urlencoded/src/ser/value.rs:

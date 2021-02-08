@@ -1,0 +1,13 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/tracing-c29607ad7082adc8.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/macros.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/dispatcher.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/field.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/instrument.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/level_filters.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/span.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/stdlib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/subscriber.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/tracing-c29607ad7082adc8.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/macros.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/dispatcher.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/field.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/instrument.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/level_filters.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/span.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/stdlib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/subscriber.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/macros.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/dispatcher.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/field.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/instrument.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/level_filters.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/span.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/stdlib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/tracing/src/subscriber.rs:

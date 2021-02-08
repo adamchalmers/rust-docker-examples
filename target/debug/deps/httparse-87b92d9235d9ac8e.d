@@ -1,0 +1,12 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/httparse-87b92d9235d9ac8e.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/iter.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/macros.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/sse42.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/avx2.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/libhttparse-87b92d9235d9ac8e.rlib: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/iter.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/macros.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/sse42.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/avx2.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/httparse-87b92d9235d9ac8e.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/iter.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/macros.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/mod.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/sse42.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/avx2.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/iter.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/macros.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/mod.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/sse42.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/httparse/src/simd/avx2.rs:

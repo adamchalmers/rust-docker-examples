@@ -1,0 +1,11 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/futures_task-e424ef52634c8269.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/spawn.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/future_obj.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/noop_waker.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/arc_wake.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/waker.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/waker_ref.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/futures_task-e424ef52634c8269.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/spawn.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/future_obj.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/noop_waker.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/arc_wake.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/waker.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/waker_ref.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/spawn.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/future_obj.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/noop_waker.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/arc_wake.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/waker.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/futures-task/src/waker_ref.rs:

@@ -1,0 +1,26 @@
+version: '3.1'
+services:
+
+  # Starts the server so that we can test its API responses.
+  app-server:
+    build:
+      context: ./
+      dockerfile: Dockerfile.app-server
+    command: cargo run --bin app-server
+    environment:
+    - LISTEN_ADDR=0.0.0.0:8000
+
+  # Runs integration test cases against the server, validating the responses.
+  integration-tests:
+    build:
+      context: ./
+      dockerfile: Dockerfile.integration-tests
+    # Use `wait-for-it` to ensure the tests don't begin until server is listening.
+    command: wait-for-it app-server:8000 -- cargo run --bin integration-tests
+    # To debug the container, uncomment the following `command` key, and run
+    # `docker-compose exec test-runner /bin/bash` to open a shell in it and debug.
+    # Setting `command` to exec sleep keeps the container alive for debugging,
+    # in case it crashes.
+    # command: sleep 10000
+    environment:
+    - SERVER_ADDR=http://app-server:8000

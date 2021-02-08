@@ -1,0 +1,18 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/typenum-3c0ed9b10bc54fce.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/bit.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/int.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/marker_traits.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/operator_aliases.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/private.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/type_operators.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/uint.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/array.rs /Users/adamchalmers/programming/rust-integration-test-sample/target/debug/build/typenum-d630f8da22938e33/out/op.rs /Users/adamchalmers/programming/rust-integration-test-sample/target/debug/build/typenum-d630f8da22938e33/out/consts.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/typenum-3c0ed9b10bc54fce.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/bit.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/int.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/marker_traits.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/operator_aliases.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/private.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/type_operators.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/uint.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/array.rs /Users/adamchalmers/programming/rust-integration-test-sample/target/debug/build/typenum-d630f8da22938e33/out/op.rs /Users/adamchalmers/programming/rust-integration-test-sample/target/debug/build/typenum-d630f8da22938e33/out/consts.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/bit.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/int.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/marker_traits.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/operator_aliases.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/private.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/type_operators.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/uint.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/typenum/src/array.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/build/typenum-d630f8da22938e33/out/op.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/build/typenum-d630f8da22938e33/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/build/typenum-d630f8da22938e33/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/build/typenum-d630f8da22938e33/out/op.rs

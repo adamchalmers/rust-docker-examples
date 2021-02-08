@@ -1,0 +1,7 @@
+FROM rust:1.49-buster
+RUN apt-get update && apt-get install --no-install-recommends -y wait-for-it
+WORKDIR /build/
+COPY Cargo.toml Cargo.lock /build/
+COPY lib/ /build/lib
+COPY bin/ /build/bin
+RUN cargo build --bin integration-tests

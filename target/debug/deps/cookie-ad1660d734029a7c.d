@@ -1,0 +1,12 @@
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/cookie-ad1660d734029a7c.rmeta: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/builder.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/parse.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/jar.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/delta.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/draft.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/libcookie-ad1660d734029a7c.rlib: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/builder.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/parse.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/jar.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/delta.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/draft.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/target/debug/deps/cookie-ad1660d734029a7c.d: /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/lib.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/builder.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/parse.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/jar.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/delta.rs /Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/draft.rs
+
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/lib.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/builder.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/parse.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/jar.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/delta.rs:
+/Users/adamchalmers/programming/rust-integration-test-sample/vendor/cookie/src/draft.rs:

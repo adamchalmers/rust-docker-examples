@@ -1,0 +1,4 @@
+.git
+# Ignore everything in `target` because the Rust build artifacts can take up
+# a lot of space, and we're going to be building inside Docker anyway.
+target
